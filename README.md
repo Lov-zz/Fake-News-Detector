@@ -12,7 +12,7 @@ This project implements a logistic regression model to detect fake news. The dat
 ## Results
 The model's loss decreases steadily over epochs, indicating good convergence.
 
-![Loss of each 50 epochs](images/loss_plot.png)
+![Loss of each 50 epochs](https://github.com/Lov-zz/Fake-News-Detector/blob/main/loss_plot.png))
 
 ### 🔢 Evaluation Metrics
 
