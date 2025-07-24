@@ -31,7 +31,6 @@ The model's loss decreases steadily over epochs, indicating good convergence.
 - numpy
 - joblib
 - matplotlib
-- Flask (optional, for API)
 
 ## Setup
 1. Clone the repository:
